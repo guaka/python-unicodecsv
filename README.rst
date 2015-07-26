@@ -22,3 +22,9 @@ You can work around it by encoding everything just before calling write (or just
    >>> row = r.next()
    >>> print row[0], row[1]
    é ñ
+
+
+Installation
+------------
+
+   pip2 install unicodecsv   
